@@ -20,7 +20,7 @@
 }
 
 .margin-auto{
-    margin: 0 auto;
+    margin: auto;
 }
 
 .row{
@@ -47,5 +47,7 @@ h1{
 }
 .green-bg{
     background-color: #01e165;
-    padding: 1rem;
+    padding: 1rem 0rem;
+    text-align: center;
+    border: 1px solid #006cfa;
 }
